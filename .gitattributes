@@ -1,4 +1,6 @@
 * text=auto
+# Ignore mysql folder completely
+order-service/mysql/
 # ----------------------------------------
 # Text files - Normalize line endings to LF
 # ----------------------------------------
